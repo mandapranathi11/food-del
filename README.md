@@ -98,20 +98,22 @@ cd food-ordering-app
 ---
 
 ## Contributing  
+
 Contributions are welcome! Please follow these steps to contribute:
 
-Fork the repository.  
-Create a new branch using `git checkout -b feature-branch`  
-Make your changes and commit them using `git commit -m 'Add some feature'`  
-Push to the branch using `git push origin feature-branch`  
-Create a new Pull Request  
+- Fork the repository.  
+- Create a new branch using `git checkout -b feature-branch`  
+- Make your changes and commit them using `git commit -m 'Add some feature'`  
+- Push to the branch using `git push origin feature-branch`  
+- Create a new Pull Request  
 
 ---
 
 
 ## Acknowledgements
-Thanks to Stripe for providing the secure payment infrastructure.  
-Thanks to MongoDB Atlas for free database hosting.  
-Special thanks to the open-source community and tutorial creators for resources and inspiration.
+
+- Thanks to Stripe for providing the secure payment infrastructure.  
+- Thanks to MongoDB Atlas for free database hosting.  
+- Special thanks to the open-source community and tutorial creators for resources and inspiration.
 
 
