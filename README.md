@@ -11,9 +11,6 @@ A full-stack food ordering web application built with **React.js**, **Node.js**,
 - **Database**: MongoDB Atlas
 - **Authentication**: JSON Web Tokens (JWT)
 - **Payment Gateway**: Stripe
-- **Deployment**:
-  - Frontend: [Vercel](https://vercel.com)
-  - Backend: [Render](https://render.com) / [Railway](https://railway.app)
 
 ---
 
