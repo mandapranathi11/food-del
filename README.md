@@ -4,12 +4,6 @@ A full-stack food ordering web application built with **React.js**, **Node.js**,
 
 ---
 
-## Live Demo
-
-[**Click here to try the app**](https://your-frontend-url.vercel.app)
-
----
-
 ## Tech Stack
 
 - **Frontend**: React.js, CSS, Context API
